@@ -38,12 +38,12 @@ interface Project {
 const PROJECTS: Project[] = [
   {
     id: 1,
-    title: "E-Commerce Dashboard",
-    description: "A full-stack analytics dashboard for e-commerce platforms with real-time data visualization.",
-    tags: ["React", "TypeScript", "Tailwind", "D3.js"],
-    githubUrl: "https://github.com/username/ecommerce-dashboard",
-    liveUrl: "https://ecommerce-dashboard-demo.netlify.app",
-    image: "https://picsum.photos/seed/dashboard/800/600"
+    title: "Amourly Subscription Service",
+    description: "A full-stack E-Poem subscription service. Users can subscribe to send their SO a personalised poem every month.",
+    tags: ["React", "Node.js", "PostgreSQL", "Express.js"],
+    githubUrl: "https://github.com/Jaeger974/jmwebdev.io",
+    liveUrl: "https://amourlyserviceproject-io.onrender.com/",
+    image: ".//images/Amourlyhomepagepreview.jpg"
   },
   {
     id: 2,

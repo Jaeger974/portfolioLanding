@@ -43,16 +43,16 @@ const PROJECTS: Project[] = [
     tags: ["React", "Node.js", "PostgreSQL", "Express.js"],
     githubUrl: "https://github.com/Jaeger974/jmwebdev.io",
     liveUrl: "https://amourlyserviceproject-io.onrender.com/",
-    image: ".//images/Amourlyhomepagepreview.jpg"
+    image: "portfolioLanding\\images\\Amourlyhomepagepreview.JPG"
   },
   {
     id: 2,
-    title: "AI Content Generator",
-    description: "An AI-powered tool that generates blog posts and social media content using Gemini API.",
-    tags: ["Next.js", "Gemini API", "Node.js", "Prisma"],
-    githubUrl: "https://github.com/username/ai-generator",
-    liveUrl: "https://ai-content-gen.netlify.app",
-    image: "https://picsum.photos/seed/ai/800/600"
+    title: "Local Sparring Matchmaking App",
+    description: "A local boxing and martial arts matchmaking app for finding training partners in your area. Users can create profiles, list their skills, and connect with others for sparring sessions.",
+    tags: ["React Native", "Node.js", "MongoDB"],
+    githubUrl: "https://github.com/username/sparring-app",
+    liveUrl: "https://sparring-app.netlify.app",
+    image: "https://picsum.photos/seed/sparring/800/600"
   },
   {
     id: 3,

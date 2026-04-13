@@ -43,7 +43,7 @@ const PROJECTS: Project[] = [
     tags: ["React", "Node.js", "PostgreSQL", "Express.js"],
     githubUrl: "https://github.com/Jaeger974/jmwebdev.io",
     liveUrl: "https://amourlyserviceproject-io.onrender.com/",
-    image: "portfolioLanding\\images\\Amourlyhomepagepreview.JPG"
+    image: "https://picsum.photos/seed/sparring/800/600"
   },
   {
     id: 2,
